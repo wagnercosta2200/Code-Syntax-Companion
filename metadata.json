@@ -1,0 +1,5 @@
+{
+  "name": "Code Syntax Companion",
+  "description": "An intelligent code translator that helps developers convert code snippets between different languages, frameworks, and platforms. Leveraging the Gemini API, it provides idiomatic translations and highlights key syntactical differences.",
+  "requestFramePermissions": []
+}
